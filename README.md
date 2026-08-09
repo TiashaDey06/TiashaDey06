@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Tiasha Dey<br>3rd-year B.Tech CSE student at Academy of Technology (AOT) <br>Exploring Frontend Development & Machine Learning.<br>Currently building with Python, React and SQL while exploring Machine Learning and strengthening my problem-solving skills. 🚀<br>
+Hello, I’m Tiasha Dey<br>3rd-year B.Tech CSE student at Academy of Technology (AOT)<br>Exploring Frontend Development & Machine Learning.<br>Currently building with Python, React and SQL while exploring Machine Learning and strengthening my problem-solving skills. 🚀
 
 
 ## 🌐 Socials:
@@ -14,5 +14,8 @@ I’m Tiasha Dey<br>3rd-year B.Tech CSE student at Academy of Technology (AOT) <
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TiashaDey06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=TiashaDey06&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
