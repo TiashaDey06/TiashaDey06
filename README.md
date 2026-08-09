@@ -1,4 +1,4 @@
-<!--# 💫 About Me:
+# 💫 About Me:
 I’m Tiasha Dey<br>3rd-year B.Tech CSE student at Academy of Technology (AOT) <br>Exploring Frontend Development & Machine Learning.<br>Currently building with Python, React and SQL while exploring Machine Learning and strengthening my problem-solving skills. 🚀<br>
 
 
@@ -16,6 +16,3 @@ I’m Tiasha Dey<br>3rd-year B.Tech CSE student at Academy of Technology (AOT) <
 ![](https://github-contributor-stats.vercel.app/api?username=TiashaDey06&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**TiashaDey06/TiashaDey06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
